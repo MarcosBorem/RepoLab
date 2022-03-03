@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\bin\Debug\netcoreapp3.1\SECAO05AULA01.exe
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\bin\Debug\netcoreapp3.1\SECAO05AULA01.deps.json
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\bin\Debug\netcoreapp3.1\SECAO05AULA01.runtimeconfig.json
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\bin\Debug\netcoreapp3.1\SECAO05AULA01.runtimeconfig.dev.json
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\bin\Debug\netcoreapp3.1\SECAO05AULA01.dll
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\bin\Debug\netcoreapp3.1\SECAO05AULA01.pdb
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\obj\Debug\netcoreapp3.1\SECAO05AULA01.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\obj\Debug\netcoreapp3.1\SECAO05AULA01.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\obj\Debug\netcoreapp3.1\SECAO05AULA01.AssemblyInfo.cs
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\obj\Debug\netcoreapp3.1\SECAO05AULA01.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\obj\Debug\netcoreapp3.1\SECAO05AULA01.dll
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\obj\Debug\netcoreapp3.1\SECAO05AULA01.pdb
+C:\Users\marco\source\repos\SECAO05AULA01\SECAO05AULA01\obj\Debug\netcoreapp3.1\SECAO05AULA01.genruntimeconfig.cache

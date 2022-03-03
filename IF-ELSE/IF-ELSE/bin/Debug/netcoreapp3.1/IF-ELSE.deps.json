@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IF-ELSE/1.0.0": {
+        "runtime": {
+          "IF-ELSE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IF-ELSE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.1\IF-ELSE.exe
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.1\IF-ELSE.deps.json
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.1\IF-ELSE.runtimeconfig.json
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.1\IF-ELSE.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.1\IF-ELSE.dll
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\bin\Debug\netcoreapp3.1\IF-ELSE.pdb
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.1\IF-ELSE.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.1\IF-ELSE.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.1\IF-ELSE.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.1\IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.1\IF-ELSE.dll
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.1\IF-ELSE.pdb
+C:\Users\Marcos\source\repos\IF-ELSE\IF-ELSE\obj\Debug\netcoreapp3.1\IF-ELSE.genruntimeconfig.cache

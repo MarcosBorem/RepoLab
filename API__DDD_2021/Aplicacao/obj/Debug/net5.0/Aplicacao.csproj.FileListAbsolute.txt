@@ -1,0 +1,12 @@
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\bin\Debug\net5.0\Aplicacao.deps.json
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\bin\Debug\net5.0\Aplicacao.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\bin\Debug\net5.0\ref\Aplicacao.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\bin\Debug\net5.0\Aplicacao.pdb
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.AssemblyReference.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfo.cs
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb

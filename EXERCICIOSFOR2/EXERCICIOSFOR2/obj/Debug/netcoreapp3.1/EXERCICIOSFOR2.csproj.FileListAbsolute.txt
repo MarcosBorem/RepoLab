@@ -1,0 +1,12 @@
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\bin\Debug\netcoreapp3.1\EXERCICIOSFOR2.exe
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\bin\Debug\netcoreapp3.1\EXERCICIOSFOR2.deps.json
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\bin\Debug\netcoreapp3.1\EXERCICIOSFOR2.runtimeconfig.json
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\bin\Debug\netcoreapp3.1\EXERCICIOSFOR2.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\bin\Debug\netcoreapp3.1\EXERCICIOSFOR2.dll
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\bin\Debug\netcoreapp3.1\EXERCICIOSFOR2.pdb
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\obj\Debug\netcoreapp3.1\EXERCICIOSFOR2.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\obj\Debug\netcoreapp3.1\EXERCICIOSFOR2.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\obj\Debug\netcoreapp3.1\EXERCICIOSFOR2.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\obj\Debug\netcoreapp3.1\EXERCICIOSFOR2.dll
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\obj\Debug\netcoreapp3.1\EXERCICIOSFOR2.pdb
+C:\Users\Marcos\source\repos\EXERCICIOSFOR2\EXERCICIOSFOR2\obj\Debug\netcoreapp3.1\EXERCICIOSFOR2.genruntimeconfig.cache

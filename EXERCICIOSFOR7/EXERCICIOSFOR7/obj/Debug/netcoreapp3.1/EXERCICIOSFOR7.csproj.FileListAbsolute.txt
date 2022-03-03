@@ -1,0 +1,13 @@
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\bin\Debug\netcoreapp3.1\EXERCICIOSFOR7.exe
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\bin\Debug\netcoreapp3.1\EXERCICIOSFOR7.deps.json
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\bin\Debug\netcoreapp3.1\EXERCICIOSFOR7.runtimeconfig.json
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\bin\Debug\netcoreapp3.1\EXERCICIOSFOR7.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\bin\Debug\netcoreapp3.1\EXERCICIOSFOR7.dll
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\bin\Debug\netcoreapp3.1\EXERCICIOSFOR7.pdb
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\obj\Debug\netcoreapp3.1\EXERCICIOSFOR7.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\obj\Debug\netcoreapp3.1\EXERCICIOSFOR7.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\obj\Debug\netcoreapp3.1\EXERCICIOSFOR7.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\obj\Debug\netcoreapp3.1\EXERCICIOSFOR7.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\obj\Debug\netcoreapp3.1\EXERCICIOSFOR7.dll
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\obj\Debug\netcoreapp3.1\EXERCICIOSFOR7.pdb
+C:\Users\Marcos\source\repos\EXERCICIOSFOR7\EXERCICIOSFOR7\obj\Debug\netcoreapp3.1\EXERCICIOSFOR7.genruntimeconfig.cache

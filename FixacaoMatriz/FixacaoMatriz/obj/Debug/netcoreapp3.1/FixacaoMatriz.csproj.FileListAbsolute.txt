@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\bin\Debug\netcoreapp3.1\FixacaoMatriz.exe
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\bin\Debug\netcoreapp3.1\FixacaoMatriz.deps.json
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\bin\Debug\netcoreapp3.1\FixacaoMatriz.runtimeconfig.json
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\bin\Debug\netcoreapp3.1\FixacaoMatriz.runtimeconfig.dev.json
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\bin\Debug\netcoreapp3.1\FixacaoMatriz.dll
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\bin\Debug\netcoreapp3.1\FixacaoMatriz.pdb
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\obj\Debug\netcoreapp3.1\FixacaoMatriz.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\obj\Debug\netcoreapp3.1\FixacaoMatriz.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\obj\Debug\netcoreapp3.1\FixacaoMatriz.AssemblyInfo.cs
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\obj\Debug\netcoreapp3.1\FixacaoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\obj\Debug\netcoreapp3.1\FixacaoMatriz.dll
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\obj\Debug\netcoreapp3.1\FixacaoMatriz.pdb
+C:\Users\marco\source\repos\FixacaoMatriz\FixacaoMatriz\obj\Debug\netcoreapp3.1\FixacaoMatriz.genruntimeconfig.cache

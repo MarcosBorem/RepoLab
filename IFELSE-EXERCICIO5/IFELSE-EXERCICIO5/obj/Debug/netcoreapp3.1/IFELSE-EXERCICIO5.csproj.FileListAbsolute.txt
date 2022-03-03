@@ -1,0 +1,12 @@
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\bin\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.exe
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\bin\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.deps.json
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\bin\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.runtimeconfig.json
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\bin\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\bin\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.dll
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\bin\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.pdb
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\obj\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\obj\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\obj\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\obj\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.dll
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\obj\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.pdb
+C:\Users\Marcos\source\repos\IFELSE-EXERCICIO5\IFELSE-EXERCICIO5\obj\Debug\netcoreapp3.1\IFELSE-EXERCICIO5.genruntimeconfig.cache

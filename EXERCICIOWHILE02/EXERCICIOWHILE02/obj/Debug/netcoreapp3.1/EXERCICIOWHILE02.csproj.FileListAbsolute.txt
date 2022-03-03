@@ -1,0 +1,12 @@
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\bin\Debug\netcoreapp3.1\EXERCICIOWHILE02.exe
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\bin\Debug\netcoreapp3.1\EXERCICIOWHILE02.deps.json
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\bin\Debug\netcoreapp3.1\EXERCICIOWHILE02.runtimeconfig.json
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\bin\Debug\netcoreapp3.1\EXERCICIOWHILE02.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\bin\Debug\netcoreapp3.1\EXERCICIOWHILE02.dll
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\bin\Debug\netcoreapp3.1\EXERCICIOWHILE02.pdb
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\obj\Debug\netcoreapp3.1\EXERCICIOWHILE02.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\obj\Debug\netcoreapp3.1\EXERCICIOWHILE02.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\obj\Debug\netcoreapp3.1\EXERCICIOWHILE02.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\obj\Debug\netcoreapp3.1\EXERCICIOWHILE02.dll
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\obj\Debug\netcoreapp3.1\EXERCICIOWHILE02.pdb
+C:\Users\Marcos\source\repos\EXERCICIOWHILE02\EXERCICIOWHILE02\obj\Debug\netcoreapp3.1\EXERCICIOWHILE02.genruntimeconfig.cache

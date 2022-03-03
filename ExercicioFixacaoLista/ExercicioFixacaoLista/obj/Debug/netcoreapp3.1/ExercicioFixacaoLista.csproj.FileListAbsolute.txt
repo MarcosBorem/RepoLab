@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.AssemblyInfo.cs
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.exe
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.deps.json
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.runtimeconfig.json
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.runtimeconfig.dev.json
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.dll
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\netcoreapp3.1\ExercicioFixacaoLista.pdb
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.dll
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.pdb
+C:\Users\marco\source\repos\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\netcoreapp3.1\ExercicioFixacaoLista.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+c:\users\marco\source\repos\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb

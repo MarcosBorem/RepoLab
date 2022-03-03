@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\bin\Debug\netcoreapp3.1\ExercicioSecao09.exe
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\bin\Debug\netcoreapp3.1\ExercicioSecao09.deps.json
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\bin\Debug\netcoreapp3.1\ExercicioSecao09.runtimeconfig.json
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\bin\Debug\netcoreapp3.1\ExercicioSecao09.runtimeconfig.dev.json
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\bin\Debug\netcoreapp3.1\ExercicioSecao09.dll
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\bin\Debug\netcoreapp3.1\ExercicioSecao09.pdb
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\obj\Debug\netcoreapp3.1\ExercicioSecao09.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\obj\Debug\netcoreapp3.1\ExercicioSecao09.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\obj\Debug\netcoreapp3.1\ExercicioSecao09.AssemblyInfo.cs
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\obj\Debug\netcoreapp3.1\ExercicioSecao09.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\obj\Debug\netcoreapp3.1\ExercicioSecao09.dll
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\obj\Debug\netcoreapp3.1\ExercicioSecao09.pdb
+C:\Users\marco\source\repos\ExercicioSecao09\ExercicioSecao09\obj\Debug\netcoreapp3.1\ExercicioSecao09.genruntimeconfig.cache

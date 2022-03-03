@@ -1,0 +1,15 @@
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\bin\Debug\net5.0\Entidades.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\bin\Debug\net5.0\Entidades.pdb
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Dominio\obj\Debug\net5.0\Dominio.csproj.CopyComplete

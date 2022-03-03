@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\EXERCICIOSFOR1\\EXERCICIOSFOR1\\EXERCICIOSFOR1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\EXERCICIOSFOR1\\EXERCICIOSFOR1\\EXERCICIOSFOR1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\EXERCICIOSFOR1\\EXERCICIOSFOR1\\EXERCICIOSFOR1.csproj",
+        "projectName": "EXERCICIOSFOR1",
+        "projectPath": "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\EXERCICIOSFOR1\\EXERCICIOSFOR1\\EXERCICIOSFOR1.csproj",
+        "packagesPath": "C:\\Users\\MarcosBorém\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\EXERCICIOSFOR1\\EXERCICIOSFOR1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarcosBorém\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\MarcosBorém\\source\\repos\\orbis.elasticsearch\\src\\orbis-elasticsearch\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

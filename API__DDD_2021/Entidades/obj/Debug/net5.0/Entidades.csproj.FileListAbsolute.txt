@@ -1,0 +1,15 @@
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\MarcosBorém\Documents\repos\API__DDD_2021\Entidades\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
